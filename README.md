@@ -15,3 +15,21 @@ cd app_prospeccao
 ```
 npm start
 ```
+
+## Calculo de Custo por Aquisicao de Cliente (CAC)
+Aplicação simples utilizando _React.js_ e __Vite__, que efetua o calculo de Custo por Aquisicao de Cliente (CAC).
+
+1. Acessar a pasta do APP
+```
+cd app_calc_cac
+```
+
+3. Instalar a aplicação (Install) aplicação
+```
+npm install
+```
+
+3. Iniciar (Start) aplicação
+```
+npm run dev
+```
